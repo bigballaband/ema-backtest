@@ -12,7 +12,7 @@ A simple EMA crossover backtest in Python on SPY that:
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/bigballaband/ema-backtest
 cd ema-backtest
 python -m venv .venv
 source .venv/bin/activate  # or .venv\Scripts\activate on Windows
